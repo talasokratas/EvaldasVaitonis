@@ -112,5 +112,5 @@ $mas = [
     } 
 echo "pagrindines istrizaines suma: ";
 var_dump($istrizaines_suma); 
-echo "redaguoju ta pacia eilute";
+
  
