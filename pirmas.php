@@ -112,5 +112,6 @@ $mas = [
     } 
 echo "pagrindines istrizaines suma: ";
 var_dump($istrizaines_suma); 
+echo " paskutinis redagavimas"
 
  
