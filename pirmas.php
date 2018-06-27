@@ -112,7 +112,5 @@ $mas = [
     } 
 echo "pagrindines istrizaines suma: ";
 var_dump($istrizaines_suma); 
-echo "labas einu i git";
-echo "naujam commitui";
-echo "na ar veikia?";
+echo "redaguoju ta pacia eilute";
  
